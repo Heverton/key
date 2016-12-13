@@ -1,7 +1,6 @@
 package br.com.key;
 
 import org.apache.commons.codec.binary.Base32;
-import org.apache.commons.codec.binary.Base64;
 
 /**
  * https://ricardospinoza.wordpress.com/2012/06/19/java-apache-commons-codificar-e-decodificar-string/
